@@ -1,0 +1,20 @@
+body {
+    margin: 0;
+    font-family: Segoe UI;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+    background-color: #565c5d;
+  }
+  
+  code {
+    font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+      monospace;
+  }
+  
+  @media (max-width: 350px) {
+    html {
+      font-size: 12px;
+    }
+  }
